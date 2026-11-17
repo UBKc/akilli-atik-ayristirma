@@ -2,7 +2,7 @@
 
 Kameraya gösterilen atığın türünü (plastik, kağıt, cam, metal, diğer) görüntüden tespit edip servo motorlarla ilgili kutuya döken bir sistem. Raspberry Pi üzerinde çalışıyor.
 
-TEKNOFEST 2026 için geliştirdiğimiz projenin yazılım kısmı, takım kaptanıyım. Proje devam ediyor.
+Takım kaptanı olduğum bir ekip projesi, bu repoda sistemin yazılım kısmı var. Proje devam ediyor.
 
 ## Nasıl çalışıyor
 
